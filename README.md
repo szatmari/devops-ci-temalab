@@ -2,6 +2,8 @@
 
 ## Preparation
 
+
+
 1. Start the devops-ci VM in the BME VIK Cloud (Smallville)
 2. Create new GitHub repository for the demo SpringBoot RESTFul application
 ```bash
